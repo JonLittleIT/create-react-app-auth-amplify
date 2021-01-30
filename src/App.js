@@ -13,20 +13,11 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Welcome the the website this is for your eyes only.
           </p>
+          
           <p>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/B5mimngffGQ?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </p>
-          <a
-            className="App-link"
-            // eslint-disable-next-line
-            href="https://www.modernnetsec.io"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn anything....
-          </a>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/obzqga8BnSo?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </header>
       </div>
     );
