@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome the the website this is for your eyes only.
+            Music is why you are here..
           </p>
           
           <p>
