@@ -12,6 +12,7 @@
     "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-instagram-media": "^1.3.2",
     "react-native-svg": "^12.1.0",
     "react-scripts": "^3.4.1"
   },
